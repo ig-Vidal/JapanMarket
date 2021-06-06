@@ -521,4 +521,93 @@ main{
   background: rgb(218, 39, 33);
 }
 
+/*--------------------------------------------------------------
+# Nosotros
+--------------------------------------------------------------*/
 
+.imagen1 img {
+ 
+  height: 250px;
+}
+
+.imagen2 img {
+  
+  right: 200px;
+  height: 350px;
+}
+
+
+
+/*-----------------------------------------------------------
+
+
+
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+section {
+  padding: 80px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background-color: #27cbd6;
+}
+
+.section-title {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.section-title h2 {
+  font-size: 70px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: black;
+}
+
+.section-title p {
+  margin-bottom: 0;
+  font-size: 40px;
+  color: grey;
+}
+
+.contenedor {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: url("../img/compras.jpg") center;
+  background-size: initial;
+  position: relative;
+  text-align: center;
+}
+.contenedor2 {
+  width: 100%;
+  height: 40vh;
+
+  background: url("../img/japon.jpg") center;
+
+  position: relative;
+  text-align: center;
+}
+
+.r1 {
+  width: 500px;
+  height: 15vh;
+  background-color: pink;
+  background-size: 10px;
+  font-size: 100px;
+}
+.r2 {
+  text-align: center;
+  height: 10vh;
+  background-color: pink;
+  font-size: 50px;
+}
+
+.ropa {
+  background-image: url(".../img/chaqueta.jpg");
+}
